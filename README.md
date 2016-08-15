@@ -1,6 +1,5 @@
 # Space-Game
 Assembly
 
-1. Execute make.bat
-2. Execute 
-3. Enjoy the game!
+1. Compile and Execute using make.bat script
+2. Enjoy the game!
